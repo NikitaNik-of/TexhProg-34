@@ -1,0 +1,21 @@
+﻿item_id;item_name;category;cost_price;sale_price
+BAR-01;Энергетик Flash Up 0.45л;Drinks;65;120
+BAR-02;Энергетик Monster Energy 0.5л;Drinks;110;200
+BAR-03;Энергетик Red Bull 0.33л;Drinks;130;240
+BAR-04;Кола Добрый 0.5л;Drinks;50;100
+BAR-05;Вода Bonaqua 0.5л;Drinks;30;70
+BAR-06;Чипсы Lays Сметана-Зелень 140г;Snacks;85;160
+BAR-07;Чипсы Pringles Original 165г;Snacks;160;280
+BAR-08;Сухарики Хрусteam Багет 60г;Snacks;35;70
+BAR-09;Шоколадный батончик Snickers Super;Sweets;45;90
+BAR-10;Шоколад Twix Xtra;Sweets;45;90
+BAR-11;Сэндвич с ветчиной и сыром;Food;120;220
+BAR-12;Пицца мини Пепперони;Food;140;260
+BAR-13;Лапша Доширак Говядина;Food;45;90
+BAR-14;Кофе Американо 0.3л;Hot Drinks;25;110
+BAR-15;Кофе Капучино 0.3л;Hot Drinks;35;140
+BAR-16;Орешки кешью жареные 50г;Snacks;90;170
+BAR-17;Чай Матча Латте 0.3л;Hot Drinks;80;250
+BAR-18;Протеиновый батончик Bombbar;Sweets;110;210
+BAR-19;Смузи Ягодный 0.33л;Drinks;140;310
+BAR-20;Фруктовые чипсы Яблоко 40г;Snacks;95;190
