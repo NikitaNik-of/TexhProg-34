@@ -1,0 +1,36 @@
+﻿pc_id;zone_name;hourly_rate;gpu;cpu;ram_gb;status
+PC-01;Standard;170;RTX 3050;Core i5-12400F;16;Active
+PC-02;Standard;170;RTX 3050;Core i5-11400F;16;Active
+PC-03;Standard;130;GTX 1660 Super;Core i5-12400F;16;Active
+PC-04;Standard;170;RTX 2060;Core i5-11400F;16;Active
+PC-05;Standard;170;RTX 2060;Core i5-11400F;16;Active
+PC-06;Standard;150;RTX 2060;Core i5-11400F;16;Active
+PC-07;Standard;130;RTX 2060;Core i5-12400F;16;Active
+PC-08;Standard;130;RTX 2060;Core i5-12400F;16;Active
+PC-09;Standard;130;RTX 2060;Core i5-11400F;16;Active
+PC-10;Standard;170;RTX 2060;Core i5-11400F;16;Active
+PC-11;Standard;150;RTX 3050;Core i5-11400F;16;Active
+PC-12;Standard;130;RTX 2060;Core i5-11400F;16;Active
+PC-13;Standard;130;RTX 2060;Core i5-12400F;16;Active
+PC-14;Standard;150;GTX 1660 Super;Core i5-11400F;16;Active
+PC-15;Standard;130;RTX 3050;Core i5-12400F;16;Active
+PC-16;Standard;150;RTX 2060;Core i5-12400F;16;Active
+PC-17;Bootcamp;270;RTX 3060 Ti;Core i5-13400F;32;Active
+PC-18;Bootcamp;270;RTX 4060 Ti;Ryzen 5 7600;32;Active
+PC-19;Bootcamp;250;RTX 3060 Ti;Ryzen 5 7600;32;Active
+PC-20;Bootcamp;250;RTX 4060 Ti;Core i5-13400F;32;Active
+PC-21;Bootcamp;270;RTX 4060 Ti;Core i5-13400F;32;Active
+PC-22;Bootcamp;250;RTX 4060;Core i5-13400F;32;Active
+PC-23;Bootcamp;250;RTX 3060 Ti;Core i5-13400F;32;Active
+PC-24;Bootcamp;270;RTX 4060 Ti;Ryzen 5 7600;32;Active
+PC-25;Bootcamp;230;RTX 4060;Ryzen 5 7600;32;Active
+PC-26;Bootcamp;270;RTX 3060 Ti;Core i5-13400F;32;Active
+PC-27;VIP;380;RTX 4090;Ryzen 7 7800X3D;64;Active
+PC-28;VIP;400;RTX 4070 Ti;Ryzen 7 7800X3D;64;Active
+PC-29;VIP;400;RTX 4070 Ti;Ryzen 7 7800X3D;64;Active
+PC-30;VIP;400;RTX 4080 Super;Ryzen 7 7800X3D;64;Active
+PC-31;VIP;400;RTX 4070 Ti;Core i7-13700KF;64;Active
+PC-32;VIP;400;RTX 4070 Ti;Ryzen 7 7800X3D;64;Active
+PC-33;PS5;320;PlayStation 5 Custom GPU;Custom AMD Zen 2;16;Maintenance
+PC-34;PS5;300;PlayStation 5 Custom GPU;Custom AMD Zen 2;16;Maintenance
+PC-35;PS5;300;PlayStation 5 Custom GPU;Custom AMD Zen 2;16;Maintenance

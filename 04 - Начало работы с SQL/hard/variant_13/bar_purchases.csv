@@ -1,0 +1,542 @@
+﻿purchase_id;session_id;item_name;category;price;quantity;total_price;payment_type
+PUR-5001;2001;Lays Бекон 140g;Snacks;160;2;320;Card
+PUR-5002;2001;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5003;2003;Пицца Пепперони 25см;Hot Food;420;2;840;Card
+PUR-5004;2005;Чай Зеленый 400ml;Hot Drinks;110;2;220;Card
+PUR-5005;2006;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5006;2006;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5007;2009;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5008;2010;Кофе Капучино 300ml;Hot Drinks;170;2;340;Card
+PUR-5009;2010;Чай Зеленый 400ml;Hot Drinks;110;1;110;Cash
+PUR-5010;2015;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5011;2016;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5012;2017;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5013;2028;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5014;2030;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5015;2032;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5016;2033;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5017;2034;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5018;2035;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5019;2039;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5020;2041;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5021;2041;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5022;2041;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5023;2045;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5024;2045;Red Bull 0.33;Energy Drinks;220;1;220;Cash
+PUR-5025;2045;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5026;2047;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5027;2054;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5028;2057;Pringles Original 165g;Snacks;290;2;580;Card
+PUR-5029;2059;Pringles Original 165g;Snacks;290;2;580;Account_Balance
+PUR-5030;2059;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5031;2060;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5032;2060;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5033;2063;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5034;2068;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5035;2069;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5036;2070;Сэндвич с ветчиной;Hot Food;250;2;500;Card
+PUR-5037;2072;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5038;2075;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5039;2075;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5040;2079;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5041;2080;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5042;2081;Red Bull 0.33;Energy Drinks;220;2;440;Account_Balance
+PUR-5043;2084;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5044;2086;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5045;2086;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5046;2086;Pringles Original 165g;Snacks;290;2;580;Card
+PUR-5047;2099;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5048;2101;Pringles Original 165g;Snacks;290;1;290;Cash
+PUR-5049;2103;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5050;2103;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5051;2103;Чай Зеленый 400ml;Hot Drinks;110;1;110;Cash
+PUR-5052;2106;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5053;2114;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5054;2116;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5055;2116;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5056;2116;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5057;2117;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5058;2118;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5059;2121;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5060;2122;Red Bull 0.33;Energy Drinks;220;1;220;Cash
+PUR-5061;2126;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5062;2128;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5063;2132;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5064;2134;Pringles Original 165g;Snacks;290;2;580;Account_Balance
+PUR-5065;2134;Flash Energy 0.45;Energy Drinks;140;2;280;Card
+PUR-5066;2137;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5067;2137;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5068;2138;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5069;2140;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5070;2140;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5071;2141;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5072;2141;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5073;2145;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5074;2146;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5075;2146;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5076;2147;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5077;2149;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5078;2150;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5079;2154;Lays Бекон 140g;Snacks;160;1;160;Cash
+PUR-5080;2154;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5081;2156;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5082;2159;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5083;2161;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5084;2162;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5085;2163;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5086;2163;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5087;2164;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5088;2164;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5089;2164;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5090;2167;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5091;2171;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5092;2172;Lays Бекон 140g;Snacks;160;2;320;Card
+PUR-5093;2174;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5094;2175;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5095;2177;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5096;2177;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5097;2178;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5098;2178;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5099;2180;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5100;2180;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5101;2182;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5102;2184;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5103;2184;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5104;2184;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5105;2186;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5106;2187;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5107;2187;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5108;2189;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5109;2189;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5110;2189;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5111;2190;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5112;2193;Pringles Original 165g;Snacks;290;2;580;Card
+PUR-5113;2193;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5114;2195;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5115;2195;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5116;2198;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5117;2205;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5118;2208;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5119;2212;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5120;2212;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5121;2213;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5122;2213;Кофе Капучино 300ml;Hot Drinks;170;2;340;Account_Balance
+PUR-5123;2213;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5124;2214;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5125;2215;Monster Ultra 0.5;Energy Drinks;240;2;480;Account_Balance
+PUR-5126;2215;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5127;2217;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5128;2218;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5129;2220;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5130;2221;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5131;2221;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5132;2222;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5133;2226;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5134;2226;Flash Energy 0.45;Energy Drinks;140;2;280;Card
+PUR-5135;2227;Кофе Капучино 300ml;Hot Drinks;170;1;170;Cash
+PUR-5136;2227;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5137;2227;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5138;2229;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5139;2229;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5140;2230;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5141;2230;Doritos Сыр 100g;Snacks;180;1;180;Cash
+PUR-5142;2231;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5143;2232;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5144;2232;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5145;2234;Сэндвич с ветчиной;Hot Food;250;2;500;Account_Balance
+PUR-5146;2235;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5147;2236;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5148;2238;Red Bull 0.33;Energy Drinks;220;2;440;Account_Balance
+PUR-5149;2244;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5150;2244;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5151;2245;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5152;2246;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5153;2247;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5154;2247;Pringles Original 165g;Snacks;290;2;580;Account_Balance
+PUR-5155;2250;Monster Ultra 0.5;Energy Drinks;240;2;480;Account_Balance
+PUR-5156;2253;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5157;2254;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5158;2255;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5159;2255;Doritos Сыр 100g;Snacks;180;2;360;Card
+PUR-5160;2257;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5161;2259;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5162;2259;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5163;2260;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5164;2260;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5165;2261;Чай Зеленый 400ml;Hot Drinks;110;1;110;Cash
+PUR-5166;2264;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5167;2264;Сэндвич с ветчиной;Hot Food;250;1;250;Cash
+PUR-5168;2271;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5169;2271;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5170;2275;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5171;2275;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5172;2276;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5173;2276;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5174;2278;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5175;2278;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5176;2279;Doritos Сыр 100g;Snacks;180;2;360;Card
+PUR-5177;2279;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5178;2280;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5179;2280;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5180;2280;Сэндвич с ветчиной;Hot Food;250;1;250;Cash
+PUR-5181;2282;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5182;2284;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5183;2285;Red Bull 0.33;Energy Drinks;220;1;220;Cash
+PUR-5184;2286;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5185;2287;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5186;2287;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5187;2287;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5188;2288;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5189;2292;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5190;2292;Flash Energy 0.45;Energy Drinks;140;2;280;Card
+PUR-5191;2292;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5192;2295;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5193;2295;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5194;2295;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5195;2296;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5196;2298;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5197;2299;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5198;2303;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5199;2303;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5200;2303;Кофе Капучино 300ml;Hot Drinks;170;2;340;Account_Balance
+PUR-5201;2304;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5202;2304;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5203;2306;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5204;2306;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5205;2308;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5206;2310;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5207;2310;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5208;2314;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5209;2318;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5210;2319;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5211;2319;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5212;2320;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5213;2320;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5214;2322;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5215;2324;Lays Бекон 140g;Snacks;160;2;320;Account_Balance
+PUR-5216;2325;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5217;2326;Red Bull 0.33;Energy Drinks;220;2;440;Card
+PUR-5218;2327;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5219;2332;Сэндвич с ветчиной;Hot Food;250;2;500;Account_Balance
+PUR-5220;2332;Lays Бекон 140g;Snacks;160;2;320;Card
+PUR-5221;2335;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5222;2336;Кофе Капучино 300ml;Hot Drinks;170;2;340;Card
+PUR-5223;2337;Flash Energy 0.45;Energy Drinks;140;2;280;Account_Balance
+PUR-5224;2338;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5225;2340;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5226;2343;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5227;2343;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5228;2344;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5229;2344;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5230;2345;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5231;2345;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5232;2348;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5233;2352;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5234;2352;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5235;2352;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5236;2356;Кофе Капучино 300ml;Hot Drinks;170;2;340;Account_Balance
+PUR-5237;2362;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5238;2362;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5239;2363;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5240;2363;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5241;2365;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5242;2366;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5243;2368;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5244;2368;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5245;2368;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5246;2371;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5247;2371;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5248;2371;Flash Energy 0.45;Energy Drinks;140;2;280;Cash
+PUR-5249;2372;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5250;2372;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5251;2374;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5252;2374;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5253;2374;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5254;2375;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5255;2378;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5256;2378;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5257;2379;Кофе Капучино 300ml;Hot Drinks;170;2;340;Card
+PUR-5258;2379;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5259;2379;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5260;2382;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5261;2382;Red Bull 0.33;Energy Drinks;220;2;440;Card
+PUR-5262;2383;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5263;2388;Red Bull 0.33;Energy Drinks;220;1;220;Cash
+PUR-5264;2390;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5265;2390;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5266;2392;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5267;2392;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5268;2393;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5269;2393;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5270;2394;Сэндвич с ветчиной;Hot Food;250;2;500;Card
+PUR-5271;2395;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5272;2397;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5273;2398;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5274;2399;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5275;2403;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5276;2403;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5277;2405;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5278;2405;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5279;2405;Monster Ultra 0.5;Energy Drinks;240;2;480;Account_Balance
+PUR-5280;2408;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5281;2408;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5282;2409;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5283;2409;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5284;2415;Pringles Original 165g;Snacks;290;1;290;Cash
+PUR-5285;2415;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5286;2416;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5287;2418;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5288;2421;Кофе Капучино 300ml;Hot Drinks;170;2;340;Card
+PUR-5289;2426;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5290;2426;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5291;2428;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5292;2429;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5293;2431;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5294;2431;Кофе Капучино 300ml;Hot Drinks;170;2;340;Card
+PUR-5295;2431;Пицца Пепперони 25см;Hot Food;420;2;840;Card
+PUR-5296;2435;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5297;2436;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5298;2438;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5299;2442;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5300;2442;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5301;2445;Сэндвич с ветчиной;Hot Food;250;2;500;Card
+PUR-5302;2449;Doritos Сыр 100g;Snacks;180;2;360;Account_Balance
+PUR-5303;2449;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5304;2452;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5305;2453;Lays Бекон 140g;Snacks;160;1;160;Cash
+PUR-5306;2454;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5307;2457;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5308;2458;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5309;2459;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5310;2465;Pringles Original 165g;Snacks;290;1;290;Cash
+PUR-5311;2465;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5312;2465;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5313;2466;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5314;2470;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5315;2470;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5316;2473;Кофе Капучино 300ml;Hot Drinks;170;1;170;Cash
+PUR-5317;2473;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5318;2474;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5319;2474;Пицца Пепперони 25см;Hot Food;420;2;840;Cash
+PUR-5320;2475;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5321;2475;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5322;2475;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5323;2477;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5324;2484;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5325;2484;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5326;2485;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5327;2487;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5328;2487;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5329;2488;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5330;2490;Сэндвич с ветчиной;Hot Food;250;2;500;Account_Balance
+PUR-5331;2490;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5332;2491;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5333;2497;Red Bull 0.33;Energy Drinks;220;1;220;Cash
+PUR-5334;2500;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5335;2500;Кофе Капучино 300ml;Hot Drinks;170;1;170;Cash
+PUR-5336;2502;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5337;2503;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5338;2504;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5339;2507;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5340;2507;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5341;2508;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5342;2508;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5343;2510;Чай Зеленый 400ml;Hot Drinks;110;2;220;Card
+PUR-5344;2511;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5345;2513;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5346;2513;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5347;2513;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5348;2514;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5349;2516;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5350;2516;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5351;2517;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5352;2517;Сэндвич с ветчиной;Hot Food;250;2;500;Cash
+PUR-5353;2517;Doritos Сыр 100g;Snacks;180;2;360;Card
+PUR-5354;2519;Red Bull 0.33;Energy Drinks;220;2;440;Card
+PUR-5355;2521;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5356;2525;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5357;2525;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5358;2526;Pringles Original 165g;Snacks;290;1;290;Cash
+PUR-5359;2526;Чай Зеленый 400ml;Hot Drinks;110;2;220;Card
+PUR-5360;2526;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5361;2530;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5362;2530;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5363;2531;Lays Бекон 140g;Snacks;160;1;160;Cash
+PUR-5364;2531;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5365;2536;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5366;2536;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5367;2537;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5368;2539;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5369;2550;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5370;2554;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5371;2554;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5372;2554;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5373;2556;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5374;2556;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5375;2557;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5376;2557;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5377;2558;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5378;2561;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5379;2561;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5380;2564;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5381;2565;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5382;2569;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5383;2570;Чай Зеленый 400ml;Hot Drinks;110;1;110;Cash
+PUR-5384;2572;Сэндвич с ветчиной;Hot Food;250;1;250;Cash
+PUR-5385;2577;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5386;2577;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5387;2580;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5388;2582;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5389;2585;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5390;2585;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5391;2588;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5392;2590;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5393;2590;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5394;2590;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5395;2592;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5396;2592;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5397;2592;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5398;2593;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5399;2594;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5400;2594;Сэндвич с ветчиной;Hot Food;250;1;250;Cash
+PUR-5401;2595;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5402;2596;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5403;2599;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5404;2599;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5405;2601;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5406;2602;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5407;2603;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5408;2603;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5409;2603;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5410;2605;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5411;2605;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5412;2606;Pringles Original 165g;Snacks;290;2;580;Card
+PUR-5413;2608;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5414;2611;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5415;2611;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5416;2613;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5417;2615;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5418;2615;Pringles Original 165g;Snacks;290;2;580;Card
+PUR-5419;2616;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5420;2618;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5421;2620;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5422;2623;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5423;2624;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5424;2627;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5425;2627;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5426;2627;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5427;2629;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5428;2630;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5429;2630;Кофе Капучино 300ml;Hot Drinks;170;2;340;Account_Balance
+PUR-5430;2634;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5431;2634;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5432;2634;Lays Бекон 140g;Snacks;160;1;160;Cash
+PUR-5433;2636;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5434;2636;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5435;2637;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5436;2642;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5437;2642;Чай Зеленый 400ml;Hot Drinks;110;2;220;Card
+PUR-5438;2642;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5439;2645;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5440;2646;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5441;2646;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5442;2647;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5443;2647;Сэндвич с ветчиной;Hot Food;250;2;500;Card
+PUR-5444;2647;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5445;2654;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5446;2654;Сэндвич с ветчиной;Hot Food;250;2;500;Card
+PUR-5447;2655;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5448;2655;Пицца Пепперони 25см;Hot Food;420;1;420;Cash
+PUR-5449;2657;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5450;2659;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5451;2660;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5452;2663;Пицца Пепперони 25см;Hot Food;420;2;840;Account_Balance
+PUR-5453;2663;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5454;2663;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5455;2672;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5456;2673;Пицца Пепперони 25см;Hot Food;420;2;840;Card
+PUR-5457;2673;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5458;2676;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5459;2676;Кофе Капучино 300ml;Hot Drinks;170;1;170;Cash
+PUR-5460;2681;Lays Бекон 140g;Snacks;160;2;320;Card
+PUR-5461;2682;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5462;2684;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5463;2685;Сэндвич с ветчиной;Hot Food;250;1;250;Account_Balance
+PUR-5464;2685;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5465;2690;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5466;2691;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5467;2692;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5468;2692;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5469;2692;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5470;2696;Сэндвич с ветчиной;Hot Food;250;1;250;Cash
+PUR-5471;2701;Кофе Капучино 300ml;Hot Drinks;170;1;170;Cash
+PUR-5472;2706;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5473;2706;Red Bull 0.33;Energy Drinks;220;2;440;Card
+PUR-5474;2706;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5475;2707;Flash Energy 0.45;Energy Drinks;140;2;280;Card
+PUR-5476;2707;Pringles Original 165g;Snacks;290;2;580;Account_Balance
+PUR-5477;2707;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5478;2708;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5479;2711;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5480;2711;Чай Зеленый 400ml;Hot Drinks;110;1;110;Account_Balance
+PUR-5481;2712;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5482;2718;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5483;2718;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5484;2720;Red Bull 0.33;Energy Drinks;220;1;220;Account_Balance
+PUR-5485;2721;Lays Бекон 140g;Snacks;160;1;160;Account_Balance
+PUR-5486;2721;Пицца Пепперони 25см;Hot Food;420;1;420;Account_Balance
+PUR-5487;2722;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5488;2723;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5489;2726;Monster Ultra 0.5;Energy Drinks;240;2;480;Cash
+PUR-5490;2728;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5491;2729;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5492;2732;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5493;2734;Lays Бекон 140g;Snacks;160;1;160;Cash
+PUR-5494;2736;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5495;2736;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5496;2745;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5497;2745;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5498;2746;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
+PUR-5499;2747;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5500;2747;Monster Ultra 0.5;Energy Drinks;240;2;480;Cash
+PUR-5501;2748;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5502;2748;Monster Ultra 0.5;Energy Drinks;240;1;240;Account_Balance
+PUR-5503;2754;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5504;2756;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5505;2758;Pringles Original 165g;Snacks;290;2;580;Cash
+PUR-5506;2759;Monster Ultra 0.5;Energy Drinks;240;1;240;Cash
+PUR-5507;2759;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5508;2759;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5509;2762;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5510;2762;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5511;2762;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5512;2765;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5513;2767;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5514;2768;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5515;2769;Пицца Пепперони 25см;Hot Food;420;1;420;Card
+PUR-5516;2771;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5517;2772;Кофе Капучино 300ml;Hot Drinks;170;1;170;Account_Balance
+PUR-5518;2773;Flash Energy 0.45;Energy Drinks;140;1;140;Account_Balance
+PUR-5519;2773;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5520;2776;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5521;2778;Red Bull 0.33;Energy Drinks;220;1;220;Card
+PUR-5522;2778;Doritos Сыр 100g;Snacks;180;1;180;Card
+PUR-5523;2779;Doritos Сыр 100g;Snacks;180;2;360;Card
+PUR-5524;2781;Кофе Капучино 300ml;Hot Drinks;170;1;170;Card
+PUR-5525;2781;Red Bull 0.33;Energy Drinks;220;2;440;Card
+PUR-5526;2782;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5527;2787;Monster Ultra 0.5;Energy Drinks;240;1;240;Card
+PUR-5528;2788;Flash Energy 0.45;Energy Drinks;140;1;140;Cash
+PUR-5529;2791;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5530;2791;Monster Ultra 0.5;Energy Drinks;240;2;480;Card
+PUR-5531;2792;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5532;2792;Сэндвич с ветчиной;Hot Food;250;1;250;Card
+PUR-5533;2793;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5534;2793;Doritos Сыр 100g;Snacks;180;1;180;Account_Balance
+PUR-5535;2793;Lays Бекон 140g;Snacks;160;1;160;Card
+PUR-5536;2794;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5537;2795;Pringles Original 165g;Snacks;290;1;290;Account_Balance
+PUR-5538;2798;Чай Зеленый 400ml;Hot Drinks;110;2;220;Account_Balance
+PUR-5539;2799;Pringles Original 165g;Snacks;290;1;290;Card
+PUR-5540;2800;Flash Energy 0.45;Energy Drinks;140;1;140;Card
+PUR-5541;2800;Чай Зеленый 400ml;Hot Drinks;110;1;110;Card
