@@ -1,0 +1,31 @@
+﻿pc_id;pc_number;zone_name;hourly_rate;gpu;status
+1;PC-01;Standard;150;GTX 1660 Super;Active
+2;PC-02;Standard;130;RTX 3050;Active
+3;PC-03;Standard;150;RTX 3050;Active
+4;PC-04;Standard;150;RTX 3050;Active
+5;PC-05;Standard;150;RTX 2060;Active
+6;PC-06;Standard;170;RTX 2060;Active
+7;PC-07;Standard;130;GTX 1660 Super;Active
+8;PC-08;Standard;150;GTX 1660 Super;Active
+9;PC-09;Standard;170;RTX 2060;Active
+10;PC-10;Standard;150;RTX 3050;Active
+11;PC-11;Standard;170;GTX 1660 Super;Active
+12;PC-12;Standard;130;RTX 3050;Active
+13;PC-13;Standard;130;RTX 3050;Active
+14;PC-14;Standard;150;RTX 3050;Active
+15;PC-15;Bootcamp;230;RTX 4060;Active
+16;PC-16;Bootcamp;230;RTX 3060 Ti;Active
+17;PC-17;Bootcamp;230;RTX 4060;Active
+18;PC-18;Bootcamp;270;RTX 4060;Active
+19;PC-19;Bootcamp;230;RTX 3060 Ti;Active
+20;PC-20;Bootcamp;250;RTX 3060 Ti;Active
+21;PC-21;Bootcamp;230;RTX 3060 Ti;Active
+22;PC-22;Bootcamp;230;RTX 3060 Ti;Active
+23;PC-23;VIP;420;RTX 4080;Active
+24;PC-24;VIP;380;RTX 4090;Active
+25;PC-25;VIP;400;RTX 4080;Active
+26;PC-26;VIP;400;RTX 4090;Active
+27;PC-27;VIP;380;RTX 4070 Ti;Maintenance
+28;PC-28;PS5;300;Sony PlayStation 5;Maintenance
+29;PC-29;PS5;280;Sony PlayStation 5;Reserved
+30;PC-30;PS5;280;Sony PlayStation 5;Reserved

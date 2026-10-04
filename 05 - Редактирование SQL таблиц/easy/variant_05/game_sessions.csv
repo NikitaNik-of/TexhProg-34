@@ -1,0 +1,201 @@
+﻿session_id;member_id;game_title;start_time;hours_played;status
+1001;32;GTA V;2026-02-28 19:30:00;1.0;completed
+1002;31;Valorant;2026-02-07 18:45:00;4.0;active
+1003;13;GTA V;2026-03-09 10:30:00;3.0;completed
+1004;49;GTA V;2026-03-10 21:45:00;2.0;completed
+1005;68;Valorant;2026-03-01 14:45:00;3.0;completed
+1006;60;GTA V;2026-03-20 19:15:00;2.0;active
+1007;80;Counter-Strike 2;2026-02-02 10:00:00;2.0;completed
+1008;32;Dota 2;2026-02-23 21:45:00;3.0;active
+1009;43;Apex Legends;2026-03-17 22:45:00;4.0;completed
+1010;22;Dota 2;2026-03-22 10:15:00;2.0;completed
+1011;44;GTA V;2026-03-10 11:45:00;2.0;completed
+1012;48;Counter-Strike 2;2026-02-28 13:00:00;2.0;completed
+1013;55;Valorant;2026-03-16 14:15:00;2.0;completed
+1014;50;Cyberpunk 2077;2026-03-02 13:45:00;1.0;completed
+1015;1;Dota 2;2026-03-08 17:45:00;2.0;completed
+1016;47;Valorant;2026-02-18 12:30:00;2.0;completed
+1017;65;Cyberpunk 2077;2026-03-22 19:00:00;2.0;completed
+1018;74;Valorant;2026-03-08 21:45:00;1.0;completed
+1019;60;GTA V;2026-03-21 19:45:00;3.0;active
+1020;6;GTA V;2026-02-23 19:45:00;2.0;completed
+1021;55;Cyberpunk 2077;2026-02-26 20:15:00;4.0;completed
+1022;31;Dota 2;2026-03-20 17:00:00;2.0;completed
+1023;31;Apex Legends;2026-02-09 12:15:00;2.0;completed
+1024;74;Cyberpunk 2077;2026-02-26 15:45:00;2.0;completed
+1025;74;Apex Legends;2026-02-07 13:45:00;1.0;completed
+1026;8;Cyberpunk 2077;2026-03-12 15:00:00;1.0;completed
+1027;35;Dota 2;2026-02-22 10:00:00;4.0;completed
+1028;43;Counter-Strike 2;2026-03-21 18:45:00;2.0;completed
+1029;71;Counter-Strike 2;2026-02-11 18:00:00;2.0;completed
+1030;49;Apex Legends;2026-02-02 10:45:00;4.0;completed
+1031;14;GTA V;2026-02-11 17:15:00;1.0;completed
+1032;14;Cyberpunk 2077;2026-03-10 21:45:00;3.0;completed
+1033;30;Valorant;2026-02-15 10:45:00;3.0;completed
+1034;31;Dota 2;2026-02-21 11:15:00;2.0;completed
+1035;54;GTA V;2026-02-05 14:15:00;2.0;completed
+1036;58;Valorant;2026-02-01 18:45:00;2.0;completed
+1037;47;Valorant;2026-03-08 10:00:00;2.0;completed
+1038;24;Counter-Strike 2;2026-02-04 11:45:00;3.0;completed
+1039;15;GTA V;2026-02-02 14:45:00;2.0;completed
+1040;51;Apex Legends;2026-03-02 12:00:00;4.0;completed
+1041;39;Dota 2;2026-02-03 11:15:00;2.0;completed
+1042;58;Dota 2;2026-02-03 22:00:00;3.0;active
+1043;65;Counter-Strike 2;2026-02-19 11:00:00;2.0;active
+1044;32;Apex Legends;2026-03-04 11:00:00;4.0;completed
+1045;58;Apex Legends;2026-03-17 17:15:00;1.0;completed
+1046;34;GTA V;2026-02-01 16:45:00;4.0;completed
+1047;30;GTA V;2026-03-19 23:30:00;2.0;completed
+1048;15;Dota 2;2026-02-08 10:15:00;3.0;completed
+1049;16;Valorant;2026-02-21 12:30:00;2.0;active
+1050;4;Valorant;2026-03-08 13:45:00;2.0;completed
+1051;59;Apex Legends;2026-03-12 11:45:00;2.0;completed
+1052;69;GTA V;2026-03-07 22:45:00;1.0;completed
+1053;2;Apex Legends;2026-02-24 20:30:00;3.0;active
+1054;56;GTA V;2026-03-22 21:45:00;1.0;completed
+1055;13;Apex Legends;2026-02-01 23:00:00;1.0;completed
+1056;73;Valorant;2026-02-22 10:15:00;1.0;completed
+1057;58;Cyberpunk 2077;2026-02-03 18:15:00;2.0;completed
+1058;59;GTA V;2026-02-07 14:30:00;3.0;completed
+1059;62;Cyberpunk 2077;2026-03-20 23:45:00;2.0;completed
+1060;2;GTA V;2026-02-20 15:45:00;2.0;completed
+1061;37;GTA V;2026-03-06 15:15:00;2.0;completed
+1062;34;Cyberpunk 2077;2026-03-18 23:00:00;4.0;completed
+1063;67;GTA V;2026-03-13 12:45:00;1.0;completed
+1064;50;Counter-Strike 2;2026-03-14 17:00:00;2.0;completed
+1065;34;Counter-Strike 2;2026-02-18 12:45:00;2.0;active
+1066;65;GTA V;2026-03-17 14:00:00;4.0;completed
+1067;20;Cyberpunk 2077;2026-02-06 12:15:00;4.0;completed
+1068;40;Apex Legends;2026-03-23 21:00:00;2.0;completed
+1069;34;Dota 2;2026-02-28 10:30:00;1.0;active
+1070;56;GTA V;2026-02-21 15:30:00;2.0;completed
+1071;77;Apex Legends;2026-03-07 19:30:00;3.0;completed
+1072;33;Dota 2;2026-02-02 15:45:00;3.0;completed
+1073;1;GTA V;2026-03-15 16:30:00;3.0;active
+1074;13;GTA V;2026-02-25 11:00:00;1.0;completed
+1075;41;Counter-Strike 2;2026-03-13 19:30:00;2.0;completed
+1076;40;Apex Legends;2026-02-24 10:15:00;4.0;completed
+1077;26;Cyberpunk 2077;2026-03-10 22:00:00;1.0;completed
+1078;45;Apex Legends;2026-02-15 22:00:00;2.0;completed
+1079;34;Dota 2;2026-03-03 22:15:00;2.0;completed
+1080;31;Apex Legends;2026-02-27 16:30:00;2.0;completed
+1081;12;GTA V;2026-03-20 12:15:00;4.0;completed
+1082;21;Valorant;2026-03-12 15:00:00;2.0;completed
+1083;40;Counter-Strike 2;2026-03-12 15:15:00;2.0;completed
+1084;17;Apex Legends;2026-03-13 18:45:00;2.0;completed
+1085;21;Valorant;2026-03-01 11:15:00;2.0;completed
+1086;47;Counter-Strike 2;2026-02-01 15:15:00;2.0;completed
+1087;67;Cyberpunk 2077;2026-02-02 13:45:00;1.0;completed
+1088;21;Dota 2;2026-03-19 13:45:00;3.0;completed
+1089;50;Dota 2;2026-02-23 17:45:00;4.0;completed
+1090;5;Valorant;2026-02-28 14:00:00;3.0;active
+1091;28;Counter-Strike 2;2026-02-16 12:00:00;1.0;completed
+1092;38;Counter-Strike 2;2026-02-03 23:45:00;2.0;completed
+1093;57;Dota 2;2026-03-09 19:30:00;1.0;active
+1094;57;Counter-Strike 2;2026-02-25 10:30:00;3.0;completed
+1095;41;Cyberpunk 2077;2026-03-09 21:30:00;2.0;active
+1096;17;Dota 2;2026-03-16 11:15:00;2.0;completed
+1097;42;Cyberpunk 2077;2026-03-17 13:15:00;2.0;completed
+1098;38;Dota 2;2026-02-19 23:00:00;3.0;completed
+1099;44;Cyberpunk 2077;2026-03-15 11:45:00;2.0;active
+1100;64;Cyberpunk 2077;2026-02-03 20:15:00;2.0;completed
+1101;57;GTA V;2026-02-05 20:45:00;1.0;completed
+1102;65;Dota 2;2026-02-18 13:30:00;3.0;active
+1103;13;GTA V;2026-02-02 17:30:00;3.0;completed
+1104;48;Valorant;2026-02-23 13:30:00;3.0;active
+1105;45;Valorant;2026-02-21 14:45:00;3.0;completed
+1106;12;Counter-Strike 2;2026-02-24 22:45:00;1.0;completed
+1107;50;GTA V;2026-03-21 18:45:00;2.0;completed
+1108;73;Counter-Strike 2;2026-02-28 22:15:00;2.0;completed
+1109;72;Counter-Strike 2;2026-02-28 12:45:00;3.0;completed
+1110;15;Valorant;2026-03-18 16:45:00;1.0;completed
+1111;73;Counter-Strike 2;2026-03-21 11:15:00;2.0;completed
+1112;35;Counter-Strike 2;2026-02-08 12:00:00;4.0;active
+1113;21;Apex Legends;2026-02-13 19:15:00;4.0;completed
+1114;73;Dota 2;2026-02-03 15:45:00;2.0;active
+1115;22;Dota 2;2026-02-09 14:45:00;1.0;completed
+1116;6;Dota 2;2026-03-17 13:15:00;1.0;completed
+1117;17;GTA V;2026-02-05 22:45:00;4.0;completed
+1118;11;Counter-Strike 2;2026-03-15 12:15:00;2.0;completed
+1119;37;Apex Legends;2026-03-15 19:45:00;1.0;completed
+1120;79;Counter-Strike 2;2026-03-02 17:15:00;1.0;completed
+1121;58;Cyberpunk 2077;2026-03-01 11:45:00;2.0;active
+1122;11;Counter-Strike 2;2026-02-23 15:30:00;2.0;completed
+1123;77;Valorant;2026-02-24 22:30:00;3.0;completed
+1124;47;Counter-Strike 2;2026-02-03 11:15:00;2.0;active
+1125;64;Dota 2;2026-02-26 18:45:00;4.0;completed
+1126;39;Dota 2;2026-02-01 19:30:00;4.0;completed
+1127;44;Counter-Strike 2;2026-02-03 10:30:00;3.0;completed
+1128;30;Apex Legends;2026-02-03 17:30:00;2.0;completed
+1129;14;Cyberpunk 2077;2026-03-23 17:45:00;2.0;completed
+1130;17;Apex Legends;2026-03-04 18:15:00;4.0;completed
+1131;72;Valorant;2026-03-05 17:15:00;1.0;completed
+1132;1;Cyberpunk 2077;2026-02-09 13:45:00;3.0;completed
+1133;53;Valorant;2026-03-12 20:00:00;1.0;completed
+1134;44;Apex Legends;2026-02-12 10:00:00;2.0;completed
+1135;40;Apex Legends;2026-03-13 11:00:00;1.0;completed
+1136;39;Dota 2;2026-03-12 14:15:00;1.0;completed
+1137;17;GTA V;2026-03-16 11:45:00;2.0;completed
+1138;10;Valorant;2026-03-11 18:30:00;3.0;active
+1139;21;Counter-Strike 2;2026-02-20 10:30:00;4.0;completed
+1140;56;Apex Legends;2026-02-03 19:45:00;1.0;completed
+1141;6;GTA V;2026-03-10 14:30:00;3.0;completed
+1142;44;Apex Legends;2026-03-12 16:30:00;1.0;active
+1143;9;Apex Legends;2026-02-16 12:45:00;2.0;completed
+1144;31;Apex Legends;2026-02-15 13:00:00;2.0;completed
+1145;79;Cyberpunk 2077;2026-03-22 11:45:00;2.0;completed
+1146;61;Apex Legends;2026-02-16 18:00:00;1.0;completed
+1147;16;Counter-Strike 2;2026-03-06 12:30:00;2.0;completed
+1148;34;Counter-Strike 2;2026-03-16 15:45:00;2.0;active
+1149;53;Valorant;2026-03-04 10:30:00;2.0;completed
+1150;9;Cyberpunk 2077;2026-02-18 10:00:00;2.0;completed
+1151;23;Counter-Strike 2;2026-02-17 14:45:00;2.0;completed
+1152;14;Apex Legends;2026-02-04 14:30:00;3.0;completed
+1153;66;Cyberpunk 2077;2026-03-17 11:45:00;1.0;completed
+1154;28;Dota 2;2026-02-01 11:30:00;2.0;completed
+1155;73;Dota 2;2026-03-04 22:00:00;2.0;active
+1156;65;Valorant;2026-02-27 16:45:00;2.0;completed
+1157;33;GTA V;2026-02-16 12:15:00;3.0;completed
+1158;28;Dota 2;2026-02-23 16:30:00;2.0;completed
+1159;70;Counter-Strike 2;2026-02-09 11:00:00;4.0;completed
+1160;79;Apex Legends;2026-02-02 10:15:00;1.0;completed
+1161;39;Dota 2;2026-03-16 14:00:00;2.0;completed
+1162;29;Apex Legends;2026-02-01 16:15:00;3.0;completed
+1163;48;Counter-Strike 2;2026-02-03 10:30:00;2.0;completed
+1164;62;Valorant;2026-03-07 19:15:00;1.0;completed
+1165;18;Counter-Strike 2;2026-03-20 16:15:00;2.0;active
+1166;22;Counter-Strike 2;2026-02-12 16:45:00;4.0;completed
+1167;33;Dota 2;2026-03-16 21:30:00;4.0;completed
+1168;29;GTA V;2026-02-21 15:15:00;1.0;completed
+1169;18;Valorant;2026-02-08 22:00:00;3.0;active
+1170;71;Valorant;2026-02-01 22:30:00;2.0;completed
+1171;19;Dota 2;2026-02-25 11:15:00;2.0;active
+1172;37;Cyberpunk 2077;2026-03-05 21:45:00;1.0;completed
+1173;17;Counter-Strike 2;2026-03-02 18:15:00;4.0;completed
+1174;27;Counter-Strike 2;2026-03-03 13:15:00;2.0;completed
+1175;34;Cyberpunk 2077;2026-02-08 14:30:00;3.0;completed
+1176;24;Apex Legends;2026-02-04 15:30:00;2.0;active
+1177;40;Counter-Strike 2;2026-03-08 22:15:00;3.0;completed
+1178;21;Cyberpunk 2077;2026-02-03 19:30:00;2.0;completed
+1179;34;Valorant;2026-02-25 21:45:00;2.0;active
+1180;47;Valorant;2026-02-15 14:45:00;2.0;completed
+1181;58;Dota 2;2026-02-11 18:45:00;1.0;completed
+1182;14;GTA V;2026-02-25 15:00:00;1.0;completed
+1183;9;Dota 2;2026-02-02 18:30:00;2.0;completed
+1184;17;Dota 2;2026-02-05 12:00:00;2.0;completed
+1185;18;Counter-Strike 2;2026-03-01 10:15:00;3.0;completed
+1186;50;Cyberpunk 2077;2026-02-13 22:30:00;2.0;completed
+1187;18;Counter-Strike 2;2026-03-15 15:45:00;2.0;completed
+1188;58;Valorant;2026-03-13 12:30:00;2.0;completed
+1189;47;Dota 2;2026-02-25 23:30:00;2.0;completed
+1190;52;Counter-Strike 2;2026-03-17 17:15:00;2.0;completed
+1191;80;Counter-Strike 2;2026-03-15 19:00:00;2.0;completed
+1192;61;Valorant;2026-03-01 11:45:00;4.0;active
+1193;50;GTA V;2026-03-14 23:45:00;3.0;active
+1194;75;Counter-Strike 2;2026-02-07 11:45:00;4.0;completed
+1195;1;Counter-Strike 2;2026-02-03 14:15:00;2.0;completed
+1196;49;Cyberpunk 2077;2026-03-05 12:00:00;2.0;completed
+1197;56;Cyberpunk 2077;2026-02-23 23:15:00;3.0;completed
+1198;30;Counter-Strike 2;2026-02-05 13:00:00;2.0;active
+1199;44;Cyberpunk 2077;2026-03-01 12:45:00;1.0;completed
+1200;43;Cyberpunk 2077;2026-03-13 15:15:00;2.0;completed
