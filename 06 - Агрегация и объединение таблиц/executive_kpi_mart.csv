@@ -1,0 +1,13 @@
+﻿zone_name;loyalty_tier;sessions_count;segment_revenue;avg_ticket
+Bootcamp;Bronze;87;50007;574.8
+VIP;Bronze;48;49842;1038.4
+VIP;Silver;41;42352;1033.0
+VIP;Gold;35;38170;1090.6
+Standard;Gold;107;38128;356.3
+Standard;Bronze;108;37805;350.0
+Standard;Silver;97;35331;364.2
+Bootcamp;Gold;58;33617;579.6
+Bootcamp;Silver;44;25296;574.9
+VIP;Platinum;19;22640;1191.6
+Bootcamp;Platinum;35;20118;574.8
+Standard;Platinum;44;15190;345.2
