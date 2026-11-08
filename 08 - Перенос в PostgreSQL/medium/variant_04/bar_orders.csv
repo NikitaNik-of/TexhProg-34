@@ -1,0 +1,51 @@
+order_id,session_id,item_name,price,is_delivered
+1,54,Кибер-бургер с говядиной,900.00,False
+2,37,Капучино 0.4,210.00,False
+3,47,Coca-Cola Zero 0.5,140.00,False
+4,46,Monster Ultra White,210.00,False
+5,9,Red Bull Energy 0.25,220.00,False
+6,32,Вода BonAqua 0.5,90.00,True
+7,28,Coca-Cola Zero 0.5,140.00,False
+8,9,Red Bull Energy 0.25,220.00,True
+9,14,Кибер-бургер с говядиной,900.00,False
+10,7,Monster Ultra White,210.00,True
+11,14,Американо 0.3,160.00,True
+12,26,Чипсы Lays Сметана,170.00,True
+13,26,Red Bull Energy 0.25,220.00,True
+14,57,Monster Ultra White,420.00,False
+15,55,Red Bull Energy 0.25,220.00,True
+16,37,Пицца Пепперони мини,780.00,False
+17,19,Лимонад Тархун 0.5,300.00,False
+18,38,Пицца Пепперони мини,390.00,False
+19,21,Кибер-бургер с говядиной,450.00,True
+20,46,Лимонад Тархун 0.5,150.00,True
+21,29,Чипсы Lays Сметана,170.00,True
+22,13,Red Bull Energy 0.25,220.00,True
+23,20,Coca-Cola Zero 0.5,140.00,True
+24,1,Monster Ultra White,210.00,True
+25,5,Monster Ultra White,210.00,True
+26,30,Капучино 0.4,420.00,False
+27,46,Чипсы Lays Сметана,340.00,True
+28,49,Вода BonAqua 0.5,90.00,False
+29,42,Coca-Cola Zero 0.5,140.00,True
+30,51,Начос с сырным соусом,580.00,True
+31,2,Кибер-бургер с говядиной,450.00,True
+32,25,Monster Ultra White,210.00,True
+33,19,Чипсы Lays Сметана,340.00,False
+34,17,Вода BonAqua 0.5,180.00,True
+35,28,Coca-Cola Zero 0.5,140.00,True
+36,53,Капучино 0.4,210.00,True
+37,20,Чипсы Lays Сметана,170.00,True
+38,35,Red Bull Energy 0.25,220.00,False
+39,41,Пицца Пепперони мини,780.00,True
+40,44,Coca-Cola Zero 0.5,280.00,True
+41,14,Капучино 0.4,210.00,True
+42,48,Лимонад Тархун 0.5,150.00,True
+43,2,Чипсы Lays Сметана,340.00,False
+44,33,Monster Ultra White,420.00,False
+45,1,Чипсы Lays Сметана,170.00,True
+46,13,Red Bull Energy 0.25,220.00,True
+47,32,Кибер-бургер с говядиной,450.00,True
+48,48,Red Bull Energy 0.25,220.00,True
+49,56,Лимонад Тархун 0.5,150.00,True
+50,46,Пицца Пепперони мини,390.00,False

@@ -1,0 +1,5 @@
+tariff_id,zone_name,hourly_rate,is_vip
+1,Standard,140.00,False
+2,Bootcamp,240.00,False
+3,VIP,370.00,True
+4,Stage,520.00,True

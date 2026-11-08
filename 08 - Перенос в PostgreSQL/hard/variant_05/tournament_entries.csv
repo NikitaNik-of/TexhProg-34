@@ -1,0 +1,46 @@
+entry_id,member_id,pc_id,game_title,prize
+1,20,6,Valorant,
+2,5,13,PUBG: Battlegrounds,15000.00
+3,3,2,Counter-Strike 2,2500.00
+4,23,16,PUBG: Battlegrounds,5000.00
+5,18,6,PUBG: Battlegrounds,
+6,21,13,Counter-Strike 2,10000.00
+7,19,8,League of Legends,10000.00
+8,19,12,Counter-Strike 2,1000.00
+9,1,15,League of Legends,10000.00
+10,5,8,Counter-Strike 2,2500.00
+11,29,5,Apex Legends,
+12,4,3,Counter-Strike 2,
+13,35,1,PUBG: Battlegrounds,
+14,19,13,Dota 2,2500.00
+15,20,12,League of Legends,
+16,16,13,Valorant,15000.00
+17,20,3,PUBG: Battlegrounds,5000.00
+18,9,12,PUBG: Battlegrounds,10000.00
+19,33,2,League of Legends,
+20,32,11,Apex Legends,
+21,17,6,PUBG: Battlegrounds,1000.00
+22,9,7,Dota 2,
+23,13,14,Dota 2,
+24,31,16,Dota 2,
+25,24,6,Dota 2,10000.00
+26,21,3,Dota 2,2500.00
+27,23,7,Apex Legends,1000.00
+28,27,3,PUBG: Battlegrounds,1000.00
+29,13,4,Valorant,
+30,35,9,League of Legends,
+31,25,11,League of Legends,
+32,15,5,PUBG: Battlegrounds,
+33,17,16,Counter-Strike 2,
+34,3,11,Dota 2,2500.00
+35,2,4,PUBG: Battlegrounds,5000.00
+36,7,15,Valorant,
+37,19,16,Apex Legends,2500.00
+38,10,16,Dota 2,5000.00
+39,1,9,Apex Legends,2500.00
+40,4,2,PUBG: Battlegrounds,2500.00
+41,29,16,PUBG: Battlegrounds,15000.00
+42,35,1,Valorant,
+43,28,2,Apex Legends,
+44,7,9,League of Legends,
+45,12,15,Apex Legends,10000.00

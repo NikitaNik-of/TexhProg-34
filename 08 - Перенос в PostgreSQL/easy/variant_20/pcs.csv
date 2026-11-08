@@ -1,0 +1,11 @@
+pc_id,pc_code,tariff_id,ram_gb,is_active
+1,VIP-01,3,32,True
+2,VIP-02,3,32,True
+3,BOOT-03,2,32,True
+4,BOOT-04,2,32,True
+5,VIP-05,3,32,True
+6,VIP-06,3,32,True
+7,STD-07,1,16,False
+8,STD-08,1,16,True
+9,STD-09,1,16,True
+10,STD-10,1,16,True
