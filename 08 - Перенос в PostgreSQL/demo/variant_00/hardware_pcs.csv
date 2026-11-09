@@ -1,0 +1,21 @@
+pc_id,pc_number,zone_name,hourly_rate,gpu,cpu,ram_gb,is_active
+1,PC-01,Standard,180.00,RTX 4060,Ryzen 5 5600X,16,True
+2,PC-02,Standard,150.00,RTX 3060,Core i5-12400F,16,True
+3,PC-03,PS5,320.00,AMD RDNA 2 Custom,AMD Zen 2 8-Core,16,True
+4,PC-04,VIP,410.00,RTX 4080 Super,Core i9-14900K,128,True
+5,PC-05,VIP,440.00,RTX 4080 Super,Ryzen 7 7800X3D,64,True
+6,PC-06,Standard,160.00,RTX 4060,Core i5-12400F,32,True
+7,PC-07,PS5,300.00,AMD RDNA 2 Custom,AMD Zen 2 8-Core,16,True
+8,PC-08,Standard,180.00,RTX 3060,Ryzen 5 5600X,32,True
+9,PC-09,Standard,160.00,RTX 4060,Ryzen 5 5600X,32,True
+10,PC-10,VIP,440.00,RTX 4080 Super,Ryzen 7 7800X3D,64,True
+11,PC-11,Standard,150.00,RTX 3060,Core i5-12400F,32,True
+12,PC-12,Standard,160.00,RTX 4060,Core i5-12400F,32,True
+13,PC-13,Standard,180.00,RTX 3060,Core i5-12400F,16,True
+14,PC-14,VIP,410.00,RTX 4080 Super,Ryzen 7 7800X3D,64,True
+15,PC-15,VIP,440.00,RTX 4080 Super,Core i9-14900K,64,True
+16,PC-16,VIP,420.00,RTX 4080 Super,Core i9-14900K,128,True
+17,PC-17,Standard,180.00,RTX 4060,Ryzen 5 5600X,16,True
+18,PC-18,Standard,150.00,RTX 4060,Core i5-12400F,32,True
+19,PC-19,Standard,150.00,RTX 3060,Ryzen 5 5600X,16,False
+20,PC-20,PS5,290.00,AMD RDNA 2 Custom,AMD Zen 2 8-Core,16,False

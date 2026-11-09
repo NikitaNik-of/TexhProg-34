@@ -1,0 +1,8 @@
+tournament_id,tournament_name,game_title,zone_name,prize_fund,entry_fee,start_date,min_rank,is_completed,winner_member_id
+1,Winter Cyber Cup: CS2,Counter-Strike 2,Bootcamp,50000.00,500.00,2026-02-14,Bronze,True,26
+2,Spring DOTA 2 Major,Dota 2,VIP,75000.00,700.00,2026-03-08,Silver,True,26
+3,Valorant City Clash,Valorant,Bootcamp,35000.00,400.00,2026-03-21,Bronze,True,15
+4,Apex Legends Trio Battle,Apex Legends,Standard,40000.00,450.00,2026-04-05,Bronze,True,67
+5,Cyberpunk Speedrun Challenge,Cyberpunk 2077,VIP,25000.00,300.00,2026-04-18,Bronze,True,16
+6,Pro Masters Elite: CS2,Counter-Strike 2,VIP,120000.00,1000.00,2026-05-01,Gold,True,12
+7,Summer Dota 2 Open Qualifier,Dota 2,Bootcamp,60000.00,600.00,2026-06-12,Silver,False,

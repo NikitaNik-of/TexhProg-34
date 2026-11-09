@@ -1,9 +1,7 @@
 *.py
-*.ipynb
 *.db
 
 *.docx
 
 /00
 __pycache__
-*/demo
